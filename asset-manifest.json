@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Internship_host/static/css/main.bdee3aa2.chunk.css",
-    "main.js": "/Internship_host/static/js/main.66e597ee.chunk.js",
-    "main.js.map": "/Internship_host/static/js/main.66e597ee.chunk.js.map",
-    "runtime~main.js": "/Internship_host/static/js/runtime~main.401ccbf6.js",
-    "runtime~main.js.map": "/Internship_host/static/js/runtime~main.401ccbf6.js.map",
-    "static/css/2.ca8e03c8.chunk.css": "/Internship_host/static/css/2.ca8e03c8.chunk.css",
-    "static/js/2.7a010765.chunk.js": "/Internship_host/static/js/2.7a010765.chunk.js",
-    "static/js/2.7a010765.chunk.js.map": "/Internship_host/static/js/2.7a010765.chunk.js.map",
-    "index.html": "/Internship_host/index.html",
-    "precache-manifest.771028b90d0c669eb7b5d24a6b4879f3.js": "/Internship_host/precache-manifest.771028b90d0c669eb7b5d24a6b4879f3.js",
-    "service-worker.js": "/Internship_host/service-worker.js",
-    "static/css/2.ca8e03c8.chunk.css.map": "/Internship_host/static/css/2.ca8e03c8.chunk.css.map",
-    "static/css/main.bdee3aa2.chunk.css.map": "/Internship_host/static/css/main.bdee3aa2.chunk.css.map"
+    "main.css": "/Internship_6th_sem/static/css/main.bdee3aa2.chunk.css",
+    "main.js": "/Internship_6th_sem/static/js/main.7565e914.chunk.js",
+    "main.js.map": "/Internship_6th_sem/static/js/main.7565e914.chunk.js.map",
+    "runtime~main.js": "/Internship_6th_sem/static/js/runtime~main.21f6551e.js",
+    "runtime~main.js.map": "/Internship_6th_sem/static/js/runtime~main.21f6551e.js.map",
+    "static/css/2.11829350.chunk.css": "/Internship_6th_sem/static/css/2.11829350.chunk.css",
+    "static/js/2.99afdd85.chunk.js": "/Internship_6th_sem/static/js/2.99afdd85.chunk.js",
+    "static/js/2.99afdd85.chunk.js.map": "/Internship_6th_sem/static/js/2.99afdd85.chunk.js.map",
+    "index.html": "/Internship_6th_sem/index.html",
+    "precache-manifest.c0be7081128d9d8e63b45b843caf6286.js": "/Internship_6th_sem/precache-manifest.c0be7081128d9d8e63b45b843caf6286.js",
+    "service-worker.js": "/Internship_6th_sem/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Internship_6th_sem/static/css/2.11829350.chunk.css.map",
+    "static/css/main.bdee3aa2.chunk.css.map": "/Internship_6th_sem/static/css/main.bdee3aa2.chunk.css.map"
   }
 }
